@@ -1,0 +1,24 @@
+{
+  "name": "projeto-typescript",
+  "version": "1.0.0",
+  "description": "Repositório para o projeto de introdução ao TypeScript proporcionado pelo Bootcamp Santander Fullstack Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server", 
+    "watch": "tsc -watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndressaTobaro/projeto-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndressaTobaro/projeto-typescript/issues"
+  },
+  "homepage": "https://github.com/AndressaTobaro/projeto-typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
